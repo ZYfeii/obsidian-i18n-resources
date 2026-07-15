@@ -1,1 +1,67 @@
-[]
+[
+    {
+        "id": "6PE-v2P0PVhqCrbIHapnfP4GoUPiBrvi",
+        "plugin": "obsidian-git",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.38.6",
+        "title": "Git",
+        "description": "Git Localization & Tweaks",
+        "hash": "343dde36343dde36343dde36343dde36",
+        "created_at": "2026-07-15T10:26:21.085Z",
+        "updated_at": "2026-07-15T10:26:21.085Z"
+    },
+    {
+        "id": "P_Wet7CGTOLzMq3dWjI0sz8zokr59RCi",
+        "plugin": "obsidian-git",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.38.6",
+        "title": "Git",
+        "description": "Git Localization & Tweaks",
+        "hash": "0ba60b4b0ba60b4b0ba60b4b0ba60b4b",
+        "created_at": "2026-07-15T10:26:21.082Z",
+        "updated_at": "2026-07-15T10:26:21.082Z"
+    },
+    {
+        "id": "z0V_CnleCQVgSFTv-xgw78iKHazPjPUg",
+        "plugin": "obsidian-tasks-plugin",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "8.2.2",
+        "title": "Tasks",
+        "description": "Tasks Localization & Tweaks",
+        "hash": "5d7238fc5d7238fc5d7238fc5d7238fc",
+        "created_at": "2026-07-15T10:26:21.089Z",
+        "updated_at": "2026-07-15T10:26:21.089Z"
+    },
+    {
+        "id": "aWndfzaERpbKFeu4LVBS86JPzMPemrLZ",
+        "plugin": "obsidian-git",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.38.3",
+        "title": "Git",
+        "description": "Git Localization & Tweaks",
+        "hash": "62b076ba62b076ba62b076ba62b076ba",
+        "created_at": "2026-07-15T10:26:21.092Z",
+        "updated_at": "2026-07-15T10:26:21.092Z"
+    },
+    {
+        "id": "bmok13pA1W-9BNFiTU8HCkPRxRTRgFWj",
+        "plugin": "obsidian-local-images-plus",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.16.4",
+        "title": "Local Images Plus",
+        "description": "Local Images Plus Localization & Tweaks",
+        "hash": "03de232b03de232b03de232b03de232b",
+        "created_at": "2026-07-15T10:26:21.090Z",
+        "updated_at": "2026-07-15T10:26:21.090Z"
+    }
+]
